@@ -1,0 +1,9 @@
+# Dependencies
+/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# macOS system files
+.DS_Store
